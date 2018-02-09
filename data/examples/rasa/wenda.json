@@ -1,0 +1,1167 @@
+[
+  {
+    "text": "想换房，但是首付不够怎么办",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "新房二手房区别在哪里",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "大产权小产权解析",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "怎么检验学区房名额是否被用",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "不同楼层的优缺点有哪些",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "新房与二手房比较，这些你应该知道",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "新手必看：牢记这些轻松购房",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "什么是回迁房？回迁房与商品房的区别？回迁房能买吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买二手房注意事项，远离陷阱拒绝吃亏",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "怎么识别二手房房龄",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "什么是认筹？什么是现房和期房？什么是内部认购？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "一线、二线城市哪个更适合投资？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房怎么砍价？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房迁户口的流程和注意事项是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房价下降之前有哪些预示征兆？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房需要注意哪些？买房陷阱有哪些？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房首付需要什么手续？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "异地买房需要什么手续？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "二手房和新房哪个划算？多方比较择优选择",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "正在直播同安四幅商住地公开出让 参与房企少或遇冷",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "单身人群，非上海户口，可以操作在上海买房吗？不考虑公寓也不考虑商住。",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果买房，需不需要等到十九大会议开完再下手？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "去年11月在外地买房，有贷款，现在在上海买房算几套？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "公建住宅楼和普通住宅楼有什么区别？以后买卖公建房是否要补交费用？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "国家近期颁布的定向降准会对房价有影响吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "对于北京的共有产权房，对房地产市场有什么影响？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如何看待租售同权政策，会不会造成学区房租金天价？毕竟学校的入学名额有限，会有限考虑业主再考虑租户？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "家庭人均面积按照户口本上面人数来计算吗？首套不在上海买房的话，怎么判断是否符合改善型需求？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "最近总是调控，怎么看?",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "第二套房子的普通和非普通区别只是面积吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "以公司的名义买房，是否限购？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果公司要注销了，公司底下的房产如何处理？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "对于上海挂牌出让四幅地块用于租赁住房“只租不售”模式，应该如何看待？是不是意味着租赁市场将规范化，租房子也可以很好的过日子，对房价是否有会有抑制作用？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在适合买新房还是二手房？现在二手房的税费高，有点不划算",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "对于没有户口被限购不能买房的有什么建议？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "购买老破小的人群分布是怎么样的？能跑赢大盘吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在没有孩子，如果考虑学区房是否有必要？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "因为18号线规划已经确定了，沿线房价已经涨了一波，利好已出。将来等地铁开通以后升值空间会受限吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "长沙房价前段时间上涨很多，政府相应的出台了一系列政策，接下来长沙房价的走势会如何？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "临港滴水湖的前景如何？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "浦东惠南和祝桥怎么样？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "浦西火车站北广场有什么规划吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在买房摇号猫腻多不多？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "请问夫妻双方，男方非沪籍也没缴满五年社保，女方是台湾籍，可以在上海以夫妻名义一起买房么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "家庭夫妻双方，一个是上海户口，孩子是上海户口，可以买两套吗？买二套首付也是七成？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "结婚前两个上海单身都有1套房子，婚后还能不能买？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "是否要考虑房子的产权年限，50年产权的商住房是否能续期？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "是否要考虑房子的产权年限，50年产权的商住房是否能续期？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "外地的住房公积金如何转到上海来？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果在三线城市买了商铺，有贷款。再在上海买房是否算二套？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "父母退休了，想贷款买房，如果子女担保共同还贷，可以申请贷款吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "个人征信怎么拉取，在哪里可以查询？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果想置换稍大的户型，什么时候操作比较好？税费才可以降低少缴？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在满二和满五的区别是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "什么是公摊面积？教你看懂公摊面积玄机",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房如何选地段，选地段的技巧",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "公摊面积是不是越小越好",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "绿地率和绿化率区别是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "怎么看房子的户型？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "什么是楼间距？楼间距太窄有哪些危害？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "投资买房应注意哪些问题？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "购买低楼层需要注意什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "赠送面积靠谱吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "公摊面积到底是怎么回事",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "高层和小高层哪个更好？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买学区房注意事项",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "为什么特价房会便宜这么多？有什么猫腻？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "选房之前，哪些需要了解？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "绝对不能买的七种户型是哪些？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "想要买地铁房，但大家都说有利有弊，地铁房到底好不好？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "样板房有哪些陷阱？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "初次看房有哪些注意事项？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "多层楼房的得房率是多少比较合适？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "购买二手房注意事项有哪些？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "楼梯房和电梯房的区别",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房认筹是什么意思？认筹的具体操作是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "什么是房改房？购买房改房的注意事项",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "住房容积率是什么意思？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "什么是自住型商品房？自住型商品房申请条件",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "占地面积和建筑面积的区别",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "经济适用房有房产证吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "复式和跃层有什么区别？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "高层公摊面积国家标准是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "曹路板块在2017年9月近期的房价是多少？目前手上有一套房，第二套首付要多少？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "改善型住房标准是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "外环外低于230万的房子首付是5成吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "请点评下金山板块的房源。",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "莘庄地铁站附近动作很大，是否还有涨价空间？投资划算吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "临港新城附近的房子出于投资，是否能买？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "保利熙悦这个盘限价5万，这种限价房买到是不是白赚？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "大虹桥板块是否能买？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "中内环之间，浦西这块的2号线沿线附近板块有推荐的小区吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "正在规划中还没开通的地铁附近，比如14号线和18号线，作为购房是不是比较好的选择？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "顾村公园地铁站旁边的房子可以买吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "崇明的房子怎么样？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "感觉内环和外环的人往外流的，为什么更加看好中内环？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "浦东三林靠近康桥的地块未来前景如何?",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "颛桥板块未来的规划和潜力大么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在虹桥商务区已经把九亭排除了，九亭现在各种拆迁脏乱差，现在还指的考虑吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "临港板块怎么样，是不是很坑？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "张江的涨幅空间是不是很小了？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "嘉定金地世家的房子怎么样?",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "孙桥板块300w左右的小户型，是否还有投资的价值？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "青浦的房子发展潜力如何？特别是青东区域，房价的透支是否过多？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "南大路的片区潜力如何?",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "川沙板块投资的话，是否还有价值？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果考虑投资，总价350万左右可以考虑哪些板块？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "浦东二中心的张江校区能算浦东一流吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "浦东御桥板块的房价怎么看？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "这两个板块相对来说，惠南更加成熟一些，周边配套也完善，体系比较健全。",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "张江2002年后的老房子值得买吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "孙桥前景怎么样？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "打算置换，能解释一下置换的具体流程吗？是先卖再买，还是先签好合同再卖老房子？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "浦江的房子什么价位，多少钱一平？是否通地铁？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "御桥规划如何？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "奉贤滨江西渡板块，未来潜力如何？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "奉贤滨江西渡板块，未来潜力如何？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "浦东航头18号地铁沿线，未来潜力如何",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "周浦镇未来潜力如何？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "上海内中环区域，哪里还有价格洼地？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "曹路板块最新规划有哪些？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "上海哪里还有总价低于200万的两房？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "大虹桥板块是什么范围，是否包括莘庄？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在在二三线城市投资商铺前景如何？是否会影响上海买房贷款？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在外销房值得购买吗？请帮忙分析下",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "徐汇的华泾板块具体在哪里？华泾板块有哪些代表性小区？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "请教陆家嘴附近一处楼盘，能否分析一下是否有坑？ 这个楼盘办公产权是50年，住宅产权50年。办公产权可以注册，住宅产权可以迁入户口。",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "地铁沿线的叠墅，新楼盘开发商送面积，这类房子划算吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "法拍房是不是性价比更高？是否限购？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "拍卖房风险成本指的是哪些？过户吗？此类房是否可以用公积金？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "拍卖房是否要付全款？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "拍卖房的债务纠纷无法查清吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "金领国际的房子是普通住宅吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "金领国际的产权多少年？公寓和普通住宅有什么区别？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "贷款30年对房龄和年龄有啥要求？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "二手房买卖中阴阳合同有风险，阴阳合同如何辨别",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "全款购房的优劣对比",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "提前还贷，这些钱可以省",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "公积金贷款能贷多少",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "个人公积金贷款条件是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "个人公积金贷款条件是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "什么是组合贷款？组合贷款办理流程?组合贷款的还款方式?",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如何让房贷快速审批下来",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "哪些情况购房合同会“无效”？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买二手房签购房合同注意事项",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "购房协议和购房合同的区别",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房之前交的认筹金能退吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果在上海全款买的房，卖掉再买房算首套吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "在上海有动迁后分的动迁房，再买房属于二套房吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "陆金所这样的互金公司，银行贷款会有影响吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "首套房没有用公积金，二套最高可贷上限是40万吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "第二套非普通住宅现在能贷公积金贷款吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "第二套公积金贷款要看名下住房人均面积，家庭人均面积小于35.5平，可以用公积金贷款。",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "公积金撤销时效多久时间？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "外地有一套房，在上海外环外买230万以下的房子，家庭公积金最高贷款额度是80万还是100万？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在买首套房首次贷款还有贷款优惠吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "目前在外省已有两套正在还商贷的房子，是否还能在上海贷款买房？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房的贷款时间是20年和30年，哪个划算？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "目前公积金以租赁为目的的提取，是否对目前上海外地限购政策（满五年）有影响？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "之前补充公积金账号，但现在没有再缴了，那要公积金贷款的话，能贷满60年吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "公积金贷足50万，有哪些标准？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "二套房的公积金余额多少需要满足多少，才可以贷足？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "个人婚前房产有贷款记录，现在可以结清贷款，如果置换的话，写上夫妻双方二人名字，男方做主贷人，会算限贷吗？男方名下没有房产，也没贷款记录。",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果购买二手房，公积金可以贷满吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "公积金贷款月缴存额980元以上，最近连续6个月都是980元，还是购房贷款时月缴存额只要达到980元？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买昆山花桥的房子可以用公积金吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买昆山花桥的房子可以用公积金吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "在外省有两套住宅在还贷，使用的是商贷，上海无房，公积金没有使用过，只提取过一次，是否用公积金贷款在上海买房？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "去哪里可以查自己的公积金贷款使用次数？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "公积金贷款有什么要求吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果自己刚创业出来开公司，没有工资收入，如何办理商业贷款，能贷多少有限制吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果在一家银行已经做了贷款，在还没有做下来的情况下是否可以换家银行做贷款？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "上海户口，2008年在深圳买房用过银行贷款，10年卖出。现在要在上海买房，首付可以三成吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "老房子不能抵押，按揭贷款也相对困难，怎么办？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在首套房的商业贷款利率是基准下调5%，将来会不会涨利率？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "银行贷款批不下来，并不是买房者的责任，怎么能算违约？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房屋贷款评估费如何计算的？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "贷款需要准备哪些材料？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房不过户的风险有哪些",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "贷款买房的注意事项",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "提前还贷，时间长点还是短点",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "离婚房产分割问题汇总",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房贷还款年限能改吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "离职后公积金怎么办",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "等额本息和等额本金区别是什么？哪个划算？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "商业贷款申请条件，商业贷款办理流程",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "商贷转公积金贷款的流程是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "什么是等额本息？还款计算方式是怎样的？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房商业贷款需要什么条件",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房屋遗产税如何征收？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房产证丢失了该如何补办？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房产证上的名字可以去掉吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房贷担保人需要什么条件？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "婚后买房写一方名字算谁的？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房落户口需要什么手续？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "只有购房合同能贷款吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房产证的信息在哪里可以查询到？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "住房补贴和住房公积金的区别",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "自建房如何提取公积金？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "增值税与营业税的区别？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "异地公积金贷款的流程是什么？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "最低还款和分期还款哪个划算？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "组合贷款多久能批下来？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "有逾期记录可以贷款买房吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "买房贷款需要什么条件？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "二手房怎么办理按揭？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "按揭和贷款有什么区别？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房贷还款日期最多能拖几天？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房产税每年都要交吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房贷还不起了银行会怎么处理？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "贷款买房房产证什么时候能给？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "如果以公司的名义买房税费要交很多，确实是这种政策吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "新房的税费补贴是什么概念？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "现在上海的拆迁房拿到产证后，几年可以上市？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "满二满五都是以拿到产证的时点开始算的吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "哪种二手房交的税少？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "购买的新房，首付付清，贷款已经审批下来。现在找开发商开发票还是等交房的时候开？听说购房发票在二手房交易的时候可以抵税，是真的吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "唯一的首套房子主要交契税和房产税，对吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "首套房子，有上海户口不需要缴纳房产税吗？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "住宅交易中缴纳税费有什么优惠政策吗？2年和5年有什么区别?",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "在中环购买一套670万的房子，购房的增值税如何计算？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "关于过户，会不会存在网签以后，不过户的情况？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "二手房收房的注意事项",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房屋质量出问题的解决办法",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "毛坯房验房注意问题",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "怎么辨别房产证真假",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "房产证丢失怎么办",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "验房过程中有什么需要注意的？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "哪些情况可以退房？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "业主收房时要交纳什么费用？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "开发商延期交房违约金怎么算？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "精装房交房注意事项有哪些？",
+    "intent": "buy_house",
+    "entities": []
+  },
+  {
+    "text": "开发商交房必备条件",
+    "intent": "buy_house",
+    "entities": []
+  }
+]
